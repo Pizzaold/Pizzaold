@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/user-attachments/assets/1f7d950a-6334-49b8-9dc1-c9a0651fed6c" width="200"/>
+  <img src="https://github.com/user-attachments/assets/adcf3b8b-e21e-41fb-9110-838b9f4c2f03" width="200"/>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Pizzaold&theme=gruvbox-duo&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CSat" alt="GitHub Streak" /></a>
 </div>
 
